@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\bin\Debug\net9.0-windows\Trabajo Final Final Integrador.exe
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\bin\Debug\net9.0-windows\Trabajo Final Final Integrador.deps.json
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\bin\Debug\net9.0-windows\Trabajo Final Final Integrador.runtimeconfig.json
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\bin\Debug\net9.0-windows\Trabajo Final Final Integrador.dll
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\bin\Debug\net9.0-windows\Trabajo Final Final Integrador.pdb
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\obj\Debug\net9.0-windows\Trabajo_Final_Final_Integrador.Form1.resources
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\obj\Debug\net9.0-windows\Trabajo Final Final Integrador.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\obj\Debug\net9.0-windows\Trabajo Final Final Integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\obj\Debug\net9.0-windows\Trabajo Final Final Integrador.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\obj\Debug\net9.0-windows\Trabajo Final Final Integrador.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\obj\Debug\net9.0-windows\Trabajo Final Final Integrador.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\obj\Debug\net9.0-windows\Trabajo Final Final Integrador.dll
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\obj\Debug\net9.0-windows\refint\Trabajo Final Final Integrador.dll
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\obj\Debug\net9.0-windows\Trabajo Final Final Integrador.pdb
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\obj\Debug\net9.0-windows\Trabajo Final Final Integrador.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\Trabajo Final Final Integrador\obj\Debug\net9.0-windows\ref\Trabajo Final Final Integrador.dll

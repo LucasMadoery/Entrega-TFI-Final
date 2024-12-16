@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Trabajo Final Final Integrador/1.0.0": {
+        "runtime": {
+          "Trabajo Final Final Integrador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabajo Final Final Integrador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
